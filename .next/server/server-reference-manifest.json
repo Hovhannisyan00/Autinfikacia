@@ -1,0 +1,38 @@
+{
+  "node": {
+    "1fdf356bb1e44e1e648935b2c348c6dec64920d5": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDesktop%5C%5CNext-auth%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleSinup%22%2C%22%24%24ACTION_0%22%2C%22handleChakc%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "60537206210f4654e311efdbad8dd8a7f8af64c1": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDesktop%5C%5CNext-auth%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleSinup%22%2C%22%24%24ACTION_0%22%2C%22handleChakc%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "6837d7de020c8506a0ccc6ab5f48f3fd8e2340fa": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDesktop%5C%5CNext-auth%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleSinup%22%2C%22%24%24ACTION_0%22%2C%22handleChakc%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "a2423d64431797c55be08051186da4ba73b27d27": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAdmin%5C%5CDesktop%5C%5CNext-auth%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22handleSinup%22%2C%22%24%24ACTION_0%22%2C%22handleChakc%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "q2+WgR/2cgRYjIv5QNGx0TbLAKh/V29jFlA4f5h/JxU="
+}
